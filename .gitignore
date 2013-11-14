@@ -1,5 +1,7 @@
 bin
 obj
+_ReSharper.*
+build.*
 *~
 *.sln.cache
 *.suo
@@ -10,4 +12,3 @@ obj
 *.usertasks
 *.mdb
 .DS_Store
-test-results
